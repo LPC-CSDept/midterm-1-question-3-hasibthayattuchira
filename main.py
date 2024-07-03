@@ -10,9 +10,7 @@ def main():
                 break
         if prime:
             break
-            if number % i == 0:
-                return False
-            return True
+        pnumber += 1
     
     """
     ########################################
